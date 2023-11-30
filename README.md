@@ -1,5 +1,5 @@
 # Camila Gonçalves - Desenvolvedora Web em formação 🚀
-![Foto de Camila Gonçalves]([link_da_sua_imagem.jpg](https://drive.google.com/file/d/10SfnCdaPUbAiFtfGTpEwAaafssDSAL-a/view?usp=sharing))
+!(https://drive.google.com/file/d/10SfnCdaPUbAiFtfGTpEwAaafssDSAL-a/view?usp=sharing)
 ## Sobre mim
 
 Olá! Sou a Camila Gonçalves, com quase 4 anos de expertise em telecomunicações, desde o atendimento ao cliente até a supervisão de equipes. Minha base sólida inclui gestão administrativa e análise de relatórios, resultando em melhorias no desempenho das filiais e na implementação de soluções facilitadoras para os processos diários.
