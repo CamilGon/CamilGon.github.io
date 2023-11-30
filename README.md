@@ -12,11 +12,18 @@ Sou uma pessoa adaptável, pronta para encarar desafios e encontrar soluções c
 
 ## Habilidades
 Desenvolvimento Web:
+- JavaScript
+- Metodologias Ageis
 - HTML
 - CSS
-- JavaScript
 - React
-- Metodologias Ágeis
+- Node.js
+- Context API
+- Redux
+- React Testing Library
+- React Hooks
+- MySQL
+  
 
 Telecomunicações e Gestão:
 - Atendimento ao Cliente
@@ -45,9 +52,8 @@ Ferramentas e Certificações:
 
 ## Projetos
 Aqui estão alguns dos meus projetos destacados:
-1. [Projeto 1](link para o projeto 1)
-2. [Projeto 2](link para o projeto 2)
-3. [Projeto 3](link para o projeto 3)
+1. [PixelArts](link para o projeto 1)
+2. [Trybewarts](link para o projeto 2)
 
 Sinta-se à vontade para me contatar para oportunidades de colaboração, networking ou apenas para trocar ideias sobre desenvolvimento web! 🌟
 
