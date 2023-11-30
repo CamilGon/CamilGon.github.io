@@ -1,13 +1,12 @@
 # Camila Gonçalves - Desenvolvedora Web em formação 🚀
 
-<div style="display: flex; align-items: justfy;">
+
   <img src="Photo_1694738661438.png" alt="Foto de Camila Gonçalves" width="200" height="200" style="border-radius: 50%; margin-right: 20px;">
   ## Sobre mim
-  <p>Olá! Sou a Camila Gonçalves, com quase 4 anos de expertise em telecomunicações, desde o atendimento ao cliente até a supervisão de equipes. Minha base sólida inclui gestão administrativa e análise de relatórios, resultando em melhorias no desempenho das filiais e na implementação de soluções facilitadoras para os processos diários.
+  Sou a Camila Gonçalves, com quase 4 anos de expertise em telecomunicações, desde o atendimento ao cliente até a supervisão de equipes. Minha base sólida inclui gestão administrativa e análise de relatórios, resultando em melhorias no desempenho das filiais e na implementação de soluções facilitadoras para os processos diários.
 Busco incessantemente aprimorar meu conhecimento técnico. Nos últimos 2 anos, dediquei-me a aprofundar meu domínio em HTML, CSS, JavaScript, React e metodologias ágeis por meio de cursos na Trybe. Além disso, conquistei certificações em ferramentas inovadoras como AppSheet e Macker no-code.
 Minha paixão pelo Desenvolvimento Web me impulsiona a aperfeiçoar minhas habilidades na Trybe. Já completei o módulo de Front-end e agora mergulho no aprendizado do Back-end, almejando tornar-me uma profissional Full Stack. Estou entusiasmada com as possibilidades oferecidas ao explorar todas as facetas do desenvolvimento web e comprometida com a aprendizagem contínua para alcançar meus objetivos profissionais.
-Sou uma pessoa adaptável, pronta para encarar desafios e encontrar soluções criativas. Mantenho uma mentalidade de aprendizagem contínua, buscando sempre agregar valor em ambientes de trabalho dinâmicos e inovadores. Estou ansiosa para aplicar minhas habilidades e conhecimentos diversos em novas oportunidades!</p>
-</div>
+Sou uma pessoa adaptável, pronta para encarar desafios e encontrar soluções criativas. Mantenho uma mentalidade de aprendizagem contínua, buscando sempre agregar valor em ambientes de trabalho dinâmicos e inovadores. Estou ansiosa para aplicar minhas habilidades e conhecimentos diversos em novas oportunidades!
 
 ## Habilidades
 Desenvolvimento Web:
