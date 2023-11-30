@@ -1,5 +1,4 @@
 # Camila Gonçalves - Desenvolvedora Web em formação 🚀
-!https://drive.google.com/file/d/10SfnCdaPUbAiFtfGTpEwAaafssDSAL-a/view
 ## Sobre mim
 
 Olá! Sou a Camila Gonçalves, com quase 4 anos de expertise em telecomunicações, desde o atendimento ao cliente até a supervisão de equipes. Minha base sólida inclui gestão administrativa e análise de relatórios, resultando em melhorias no desempenho das filiais e na implementação de soluções facilitadoras para os processos diários.
@@ -51,8 +50,8 @@ Ferramentas e Certificações:
 
 ## Projetos
 Aqui estão alguns dos meus projetos destacados:
-1. [PixelArts]((https://github.com/CamilGon/PixelArts))
-2. [Trybewarts](link para o projeto 2)
+1. [PixelArts](https://github.com/CamilGon/PixelArts)
+2. [Trybewarts](https://camilgon.github.io/TybeWarts/)
 
 Sinta-se à vontade para me contatar para oportunidades de colaboração, networking ou apenas para trocar ideias sobre desenvolvimento web! 🌟
 
