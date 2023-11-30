@@ -36,7 +36,6 @@ Ferramentas e Certificações:
 - AppSheet
 - Macker No-Code
 - Pacote Office (Word, Excel, PowerPoint)
-- Certificações de cursos na Trybe
 
  Competências Pessoais:
 - Adaptabilidade
@@ -52,7 +51,7 @@ Ferramentas e Certificações:
 
 ## Projetos
 Aqui estão alguns dos meus projetos destacados:
-1. [PixelArts](link para o projeto 1)
+1. [PixelArts]((https://github.com/CamilGon/PixelArts))
 2. [Trybewarts](link para o projeto 2)
 
 Sinta-se à vontade para me contatar para oportunidades de colaboração, networking ou apenas para trocar ideias sobre desenvolvimento web! 🌟
