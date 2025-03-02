@@ -1,0 +1,53 @@
+.projects {
+  padding: 40px 20px;
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+}
+
+.projects h2 {
+  margin-bottom: 30px;
+  font-size: 2rem;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.project-card {
+  background: #1f1f1f;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  text-align: left;
+}
+
+.project-card h3 {
+  margin-bottom: 10px;
+  color: #8e12f3;
+}
+
+.project-card p {
+  font-size: 1rem;
+  color: #bbb;
+}
+
+.project-links {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.project-links a {
+  color: #8e12f3;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.project-links a:hover {
+  color: #fff;
+}
